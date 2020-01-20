@@ -2,4 +2,4 @@ repo_url: https://github.com/ssdq/wiki
 site_name: Serious Sam Done Quick Wiki
 site_url: https://ssdq.github.io/wiki/
 theme:
-  name: readthedocs
+  name: windmill
