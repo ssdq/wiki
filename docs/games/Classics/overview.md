@@ -2,9 +2,31 @@
 
 ## Tricks
 
-### Out of bounds
+### General
+
+#### Out of bounds
 
 You get to fly around.
+
+### Tourist/Easy
+
+#### Cannon-jumping
+
+### Normal and up
+
+#### Rocket-jumping
+
+### Co-op
+
+#### Friendly-fire boosts
+
+##### Shotgun
+
+##### Tommy gun
+
+##### Laser
+
+#### Water OOB
 
 ## Difficulty levels
 
