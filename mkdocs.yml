@@ -7,3 +7,5 @@ extra:
   logo: images/logo.svg
 extra_css:
   - 'stylesheets/style.css'
+extra_javascript:
+  - 'scripts/youtube-embeds.js'
