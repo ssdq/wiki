@@ -3,7 +3,7 @@
     font-family: 'komika_axisregular';
     font-style: normal;
     font-weight: normal;
-    src: url('/fonts/KOMIKAX_-webfont.woff') format('woff');
+    src: url('../fonts/KOMIKAX_-webfont.woff') format('woff');
 }
 
 .wm-page-top-frame {
