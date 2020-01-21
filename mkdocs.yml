@@ -3,3 +3,7 @@ site_name: Serious Sam Done Quick Wiki
 site_url: https://ssdq.github.io/wiki/
 theme:
   name: windmill
+extra:
+  logo: images/logo.svg
+extra_css:
+  - 'stylesheets/style.css'
