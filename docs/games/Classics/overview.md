@@ -4,6 +4,10 @@
 
 ### General
 
+#### Buffer jumps
+
+While in the air or on certain slippery terrain, holding the jump button will cause the player character to jump as soon as possible. In the former case, this is most often used to preserve momentum, as some is lost due to friction when you have contact with the ground.
+
 #### Out of bounds
 
 You get to fly around.

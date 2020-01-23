@@ -9,3 +9,6 @@ extra_css:
   - 'stylesheets/style.css'
 extra_javascript:
   - 'scripts/youtube-embeds.js'
+markdown_extensions:
+  - toc:
+      permalink: true
