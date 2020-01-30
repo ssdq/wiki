@@ -9,8 +9,8 @@ Enemies: 84
 Secrets: 6
 
 #### Starting Area
-    #1: Kamikaze - Touch field  
-    #2-19: Kill #1  
+    #1: Kamikaze - Touch field
+    #2-19: Kill #1
       3 * 6 Kamikazes
     #20-24: Pre-existing
       2 Gnaars, 2 Rocketeers, 1 Firecracker
@@ -28,8 +28,8 @@ Secrets: 6
     #39-42: Touch field
       3 Kamikazes, 1 Rocketeer
     #43: Firecracker - Pre-existing
-    #44-61: Kill 3 Kamikazes from #39-42 [4 second delay]
-      3 * 6 Marsh Hoppers [1.5 second interval]
+    #44-61: Kill 3 Kamikazes from #39-42
+      3 * 6 Marsh Hoppers [4 second delay, 1.5 second interval]
     #62-65: Pre-existing
       2 Gnaars, 1 Rocketeer, 1 Firecracker
     #66: Gnaar - Touch field
@@ -46,7 +46,9 @@ Secrets: 6
       2 * 1 Rocketeers, 1 Bull
     #74: Rocketeer - Collect extra small health
     #75-79: Touch field
-      1 + 3 * 1 Rocketeers, 1 Minor Biomechanoid
+      3 * 1 Rocketeers [1 second delay, 2 second interval]
+      1 Rocketeer
+      1 Minor Biomechanoid
     #80-84 - Collect extra small health
       5 Gnaars
 
