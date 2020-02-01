@@ -31,8 +31,3 @@ h5, h6 {
 h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
 }
-
-footer.wm-page-content {
-    /* Workaround until https://github.com/gristlabs/mkdocs-windmill/pull/40 is resolved and released */
-    max-width: initial;
-}
