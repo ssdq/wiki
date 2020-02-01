@@ -12,3 +12,6 @@ extra_javascript:
 markdown_extensions:
   - toc:
       permalink: true
+plugins:
+  - search
+  - awesome-pages
