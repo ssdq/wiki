@@ -17,10 +17,8 @@ $(document).ready(function () {
             query = matches[2];
 
         img.outerHTML = `
-            <div align="center">
+            <div class="video-16-9">
                 <iframe
-                    width="560"
-                    height="315"
                     src="https://www.youtube.com/embed/${id}?${query}"
                     frameborder="0"
                     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
