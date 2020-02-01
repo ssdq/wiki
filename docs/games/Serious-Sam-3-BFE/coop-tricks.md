@@ -1,4 +1,5 @@
 # Coop Tricks
+Generally, coop runs will follow very similar routes to singleplayer. There are a few coop-exclusive tricks that help however.
 
 ## Coop Settings
 You are allowed to customize server settings for runs. You will have to use the Classic Coop mode to be able to do this. Useful settings are:

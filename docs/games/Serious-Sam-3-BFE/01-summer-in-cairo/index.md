@@ -3,13 +3,13 @@
 ## Level End Trigger
 This chapter ends upon hitting the following trigger in the entrance to the museum.
 
-![Exit Trigger](images/03-summer-in-cairo/exit-trigger.png)
+<img alt="Exit Trigger" src="images/exit-trigger.png" style="display: block; margin: 0 auto;"/>
 
 ## Any%
 #### Intro
 Start off by running to the left and getting the secret sledgehammer. Then drop down one rooftop and *walk* off the edge. While in midair release sprint and so that you can switch to the sledgehammer.
 
-![Inital Route](images/03-summer-in-cairo/inital-route.png)
+![Inital Route](images/inital-route.png)
 
 The sledgehammer will be needed for skips later.
 
@@ -24,7 +24,7 @@ In the first alleyway you will come to a destructible wall that a gnar is knocki
 
 On the next road normally you'd duck into another alley on the right. You can instead skip this section by jumping over the gate blocking you.
 
-![Gate Skip](images/03-summer-in-cairo/gate-skip.png)
+![Gate Skip](images/gate-skip.png)
 
 You can make the jump from either the desk or the sandbags, though note that the desk is destructible. If you miss the initial jump you can also try jump off of one of the gnars that will be blocking you.
 
@@ -40,17 +40,17 @@ There is an additional skip you can do in this area too. Exactly 3.5s after you 
 #### The Boost
 After the spaceship arena, follow the intended path for a bit until you pass under though the building. Turn left, kill the gnar that will block you, and walk up to the dumpster.
 
-![Boost Location](images/03-summer-in-cairo/boost-location.png)
+![Boost Location](images/boost-location.png)
 
 To do the boost just line up in the right spot shown below, then jump and hold forwards. You may want to switch to a pistol after killing the gnar so that you have a crosshair, but with practice you'll be able to do it without.
 
-![Boost Lineup](images/03-summer-in-cairo/boost-lineup.png)
+![Boost Lineup](images/boost-lineup.png)
 
 Note that the more FPS you have the better, so you should be looking straight down, the example is just looking higher for better reference.
 
 Take the boost as far as possible, then follow the intended route for the rest of the level.
 
-## Coop Differences
+## Any% Coop
 If a client triggers the spaceship cutscene, then nobody will have their view forced towards it, meaning there's no need to attempt the skip.
 
 The wall you knock down in the spaceship arena takes two hits, so if two players get there at the same time they can do both hits at once. Note that this *does not* work if you have friendly fire on, one person will hit the other.

@@ -31,6 +31,8 @@ Due to differences in the swimming and standing hitboxes, you can also use sky s
 
 ![YT](https://youtu.be/M4rHnN6OinQ)
 
+While sky sharking you can also pass through some invisible walls that you can't while standing.
+
 ## Buffer Jumps
 If you hold jump in mid-air you will jump the moment you hit the ground. You can only buffer once per press, so you will have to release and re-press jump in mid-air again if you wish to chain it.
 
@@ -54,8 +56,8 @@ Rocket jumps are doable on all difficulties, though they will deal up to 50 self
 ### Crouch Sliding
 If you land on a downwards slope after a rocket jump you can crouch to slide down it, preserving some momentum.
 
-## Sledgehammer Animation Swap
-The sledgehammer is the only weapon you can use while sprinting. If you start sprinting, then try to switch to a different weapon, you will keep holding the sledge until you stop sprinting, and it will inherit the firerate of the weapon you switched to, letting you swing it more often. Works best with switching to pistol
+## Sledgehammer Glitch
+The sledgehammer is the only weapon you can use while sprinting. If you start sprinting, then try to switch to a different weapon, you will keep holding the sledge until you stop sprinting, and it will inherit the firerate of the weapon you switched to, letting you swing it more often. Works best with switching to pistol.
 
 ## Slope Boosting
 Whenever you land on a slope, some of your downwards vertical speed gets turned into horizontal speed away from the slope. This means that jumping up a slope will reduce your speed, but jumping down a slope will give you a speed boost.
