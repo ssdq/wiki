@@ -9,6 +9,7 @@ Secrets: 6
 [Format explained](../../02-explanations.md)
 
 #### Starting Area
+![Starting area](images/sand_canyon01.jpg)
 
 * 1: Kamikaze - Touch field
 * 2-19: Kill #1
@@ -21,6 +22,8 @@ Secret 1: Hidden valley - Touch field
 Secret 2: Secret room - Touch field
 
 #### Hidden Valley
+![Hidden valley](images/sand_canyon02.jpg)
+
 * 26-37: Collect bullet (4) and rocket ammo (2)
     - 12 * 1 Kamikazes [2 second interval]
 
@@ -41,6 +44,8 @@ Secret 4: Secret armor - Collect armor
 Secret 5: Secret hole - Touch field
 
 #### Ending Area
+![Ending area](images/sand_canyon03.jpg)
+
 * 68-70: Pre-existing
     - 2 Rocketeers, 1 Bomber
 * 71-73: Touch field
