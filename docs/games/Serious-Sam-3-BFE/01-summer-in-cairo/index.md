@@ -42,7 +42,7 @@ After the spaceship arena, follow the intended path for a bit until you pass und
 
 ![Boost Location](images/boost-location.png)
 
-Perform a [physics boost](..\general-tricks.md#physics-boosts) off of this dumpter. To get the boost just line up in the right spot, shown below, then jump and hold forwards. You may want to switch to a pistol after killing the gnar so that you have a crosshair, but with practice you'll be able to do it without.
+Perform a [physics boost](../general-tricks#physics-boosts) off of this dumpter. To get the boost just line up in the right spot, shown below, then jump and hold forwards. You may want to switch to a pistol after killing the gnar so that you have a crosshair, but with practice you'll be able to do it without.
 
 ![Boost Lineup](images/boost-lineup.png)
 

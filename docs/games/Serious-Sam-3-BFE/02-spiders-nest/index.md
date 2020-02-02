@@ -72,4 +72,4 @@ Just like the spaceship cutscene in [Summer in Cairo](../01-summer-in-cairo/#any
 
 With multiple players, you can parallelize opening the speedrun secret. Two players can attempt to climb the statue at once, then the first to make it runs to the button, while all players others wait by the door.
 
-Because you can't quicksave in coop, if all players fail the boss skip you will have to fight it. Use the [sledgehammer glitch](..\general-tricks.md#sledgehammer-glitch) to quickly kill it. Note that, even with just one player in the fight, the boss will die too quickly for the player who pressed the button to make it back to help, even if they immediately turn around.
+Because you can't quicksave in coop, if all players fail the boss skip you will have to fight it. Use the [sledgehammer glitch](../general-tricks.md#sledgehammer-glitch) to quickly kill it. Note that, even with just one player in the fight, the boss will die too quickly for the player who pressed the button to make it back to help, even if they immediately turn around.
