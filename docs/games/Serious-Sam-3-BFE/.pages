@@ -1,3 +1,4 @@
+collapse_single_pages: true
 arrange:
     - general-tricks.md
     - coop-tricks.md
