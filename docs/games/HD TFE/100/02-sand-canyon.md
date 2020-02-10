@@ -6,7 +6,7 @@
 Enemies: 84  
 Secrets: 6
 
-[Format explained](../../02-explanations.md)
+[Format explained](../02-explanations.md)
 
 #### Starting Area
 ![Starting area](images/sand_canyon_starting_area.jpg)
