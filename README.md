@@ -13,5 +13,3 @@ pip install -r requirements.txt
 
 mkdocs serve
 ```
-
-Note that if you're using Python 3.8 you will run into [mkdocs issue #1885](https://github.com/mkdocs/mkdocs/issues/1885). To fix it manually replace your `serve.py` with the updated version in the repo.
