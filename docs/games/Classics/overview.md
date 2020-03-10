@@ -22,6 +22,10 @@ You get to fly around.
 
 ### Co-op
 
+#### Player marker use
+
+When respawning after death, you can choose to respawn at the most recently activated player marker by holding your Reload key. You will also spawn at the most recently activated player marker if you reconnect (F9 or Quick Load as client) or join a game in progress.
+
 #### Friendly-fire boosts
 
 ##### Shotgun
