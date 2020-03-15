@@ -44,51 +44,11 @@ When respawning after death, you can choose to respawn at the most recently acti
 
 ## Difficulty levels
 
-### Tourist
-
-Incoming damage multiplier: x0.25
-Spawn flags: **E**
-#### Self Damage:
-Flamer: 2.5 per tick, 2 ticks per shot
-Cannon: x0.25
-
-### Easy
-
-Incoming damage multiplier: x0.5
-Spawn flags: **E**
-#### Self Damage:
-Flamer: per tick, 2 ticks per shot
-Cannon: x0.5
-
-
-### Normal
-
-Incoming damage multiplier: x1
-Spawn flags: **N**
-#### Self Damage:
-Flamer: 10 per tick, 2 ticks per shot
-Cannon: x1
-Rocket: 50
-Grenade: 175
-
-### Hard and Mental
-
-Incoming damage multiplier: x1.5
-Spawn flags: **H**
-#### Self Damage:
-Flamer: 10 per tick, 2 ticks per shot
-Cannon: x1
-Rocket: 50
-Grenade: 175
-
-### Serious
-
-Incoming damage multiplier: x2
-Spawn flags: **X**
-#### Self Damage:
-Flamer: 10 per tick, 2 ticks per shot
-Cannon: x1
-Rocket: 50
-Grenade: 175
-
-
+|                                                          | Tourist | Easy | Normal | Hard<br>Mental | Serious |
+|----------------------------------------------------------|---------|------|--------|----------------|---------|
+| Incoming damage <br>multiplier                           | x0.25   | x0.5 | x1     | x1.5           | 2       |
+| Spawn flags                                              | E       | E    | N      | H              | X       |
+| Self-damage ~ Flamer<br>(per tick, <br>2 ticks per shot) | 2.5     | 5    | 10     | 10             | 10      |
+| Self damage ~ Cannon                                     | x0.25   | x0.5 | x1     | x1             | x1      |
+| Self damage ~ Rocket                                     | 0       | 0    | 50     | 50             | 50      |
+| Self damage ~ Grenade                                    | 0       | 0    | 175    | 175            | 175     |
