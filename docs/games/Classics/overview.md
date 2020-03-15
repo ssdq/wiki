@@ -46,7 +46,7 @@ When respawning after death, you can choose to respawn at the most recently acti
 
 ### Tourist
 
-Incoming damage multiplier: x
+Incoming damage multiplier: x0.25
 Spawn flags: **E**
 #### Self Damage:
 Flamer: 2.5 per tick, 2 ticks per shot
@@ -54,7 +54,7 @@ Cannon: x0.25
 
 ### Easy
 
-Incoming damage multiplier: x
+Incoming damage multiplier: x0.5
 Spawn flags: **E**
 #### Self Damage:
 Flamer: per tick, 2 ticks per shot
@@ -63,7 +63,7 @@ Cannon: x0.5
 
 ### Normal
 
-Incoming damage multiplier: x
+Incoming damage multiplier: x1
 Spawn flags: **N**
 #### Self Damage:
 Flamer: 10 per tick, 2 ticks per shot
@@ -73,7 +73,7 @@ Grenade: 175
 
 ### Hard and Mental
 
-Incoming damage multiplier: x
+Incoming damage multiplier: x1.5
 Spawn flags: **H**
 #### Self Damage:
 Flamer: 10 per tick, 2 ticks per shot
