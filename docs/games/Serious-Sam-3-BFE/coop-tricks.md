@@ -20,6 +20,9 @@ If respawn in place is on, you can still respawn at a checkpoint by dying to env
 
 Note that sometimes, even with respawn in place off you will still respawn in place. The reason for this is not yet known.
 
+## Water ouf of bounds
+If you die next to a ceiling underwater with spawn in place activated, you will end up spawning out of bounds.
+
 ## Framerate
 Player's framerates are entirely independent of each other. One player can be at 15fps, and will get 15fps physics, at the exact same time as another is uncapped, and gets uncapped physics.
 

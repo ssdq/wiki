@@ -36,6 +36,8 @@ When respawning after death, you can choose to respawn at the most recently acti
 
 #### Water OOB
 
+If you die next to a ceiling underwater with spawn in place activated, you will end up spawning out of bounds.
+
 ## Difficulty levels
 
 ### Tourist

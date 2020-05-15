@@ -37,6 +37,10 @@ Unlike in non-HD, the Floating Gnaars do not float higher if you simply keep jum
 #### Bull jumping and riding
 Bull jumping is performed by standing on top of a Werebull and jumping when it is about to attack. The altitude reached is timing dependent, but a perfect bull jump gives roughly the same height as a standard bull boost in non-HD. Getting launched by two Werebulls throws you even higher into the air (double bull jumping). It is also possible to travel with the speed of a Werebull by getting on top of one while it is running. Usually it does not work if on even ground with the Werebull, so it is easier to do when it comes charging down a hill. After a while it will halt in order to attack you, but it is possible to cancel out the attack by jumping out of its attack range and landing back on again. You can also let its attack hit you while you jump to perform a boosted bull jump.
 
+## Co-op
+#### Water out of bounds
+If you die next to a ceiling underwater with spawn in place activated, you will end up spawning out of bounds.
+
 ## Useful console commands
 cht_bEnableCheats=2 - Enables the cheat menu accessed by pressing F3 when in the menu.\
 gfx_iMaxFPSActive=X - Limits the FPS to X. Default is 2000.
